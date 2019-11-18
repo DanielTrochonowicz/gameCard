@@ -56,7 +56,12 @@ div{
 }
 
 .goldenrod {
-    background-color: goldenrod;
+    /* width: 25rem;
+    height: 25rem; */
+    /* object-fit: cover; */
+    /* border-radius: 50%;  */
+    /* border: 0.5rem solid transparent; */
+    /* box-shadow: 0.5rem 0.5rem 0.5rem 0.5rem #9d7fa3;  */
 }
 
 .off {
